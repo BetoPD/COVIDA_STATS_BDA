@@ -41,6 +41,7 @@ secrets.txt
 # Ignore database files
 *.db
 *.sqlite
+*.sql
 
 # Ignore backup files
 *.backup
